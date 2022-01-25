@@ -1,1 +1,1 @@
-[Zde](https://pslib-cz.github.io/MP-2021-22_Hofer-Michal_Webova-prezentace-restaurace-DIANDI/) se můžete podívat na aktuální stav webu.
+[Zde](https://michalhofer.github.io/https---github.com-pslib-cz-2021l4web-promotion-project-michalhofer/) se můžete podívat na aktuální stav webu.
